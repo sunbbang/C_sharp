@@ -1,0 +1,14 @@
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\jeongseop\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+D:\jeongseop\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+D:\jeongseop\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+D:\jeongseop\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+D:\jeongseop\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+D:\jeongseop\AbstractClass\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll

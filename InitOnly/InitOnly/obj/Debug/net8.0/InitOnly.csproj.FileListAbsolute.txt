@@ -1,0 +1,14 @@
+D:\jeongseop\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.exe
+D:\jeongseop\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.deps.json
+D:\jeongseop\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.runtimeconfig.json
+D:\jeongseop\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.dll
+D:\jeongseop\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.pdb
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfoInputs.cache
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfo.cs
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.csproj.CoreCompileInputs.cache
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.dll
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\refint\InitOnly.dll
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.pdb
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.genruntimeconfig.cache
+D:\jeongseop\InitOnly\InitOnly\obj\Debug\net8.0\ref\InitOnly.dll

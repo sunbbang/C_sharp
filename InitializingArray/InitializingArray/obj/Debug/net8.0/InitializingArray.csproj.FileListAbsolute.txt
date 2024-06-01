@@ -1,0 +1,14 @@
+D:\jeongseop\InitializingArray\InitializingArray\bin\Debug\net8.0\InitializingArray.exe
+D:\jeongseop\InitializingArray\InitializingArray\bin\Debug\net8.0\InitializingArray.deps.json
+D:\jeongseop\InitializingArray\InitializingArray\bin\Debug\net8.0\InitializingArray.runtimeconfig.json
+D:\jeongseop\InitializingArray\InitializingArray\bin\Debug\net8.0\InitializingArray.dll
+D:\jeongseop\InitializingArray\InitializingArray\bin\Debug\net8.0\InitializingArray.pdb
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.AssemblyInfoInputs.cache
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.AssemblyInfo.cs
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.csproj.CoreCompileInputs.cache
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.dll
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\refint\InitializingArray.dll
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.pdb
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\InitializingArray.genruntimeconfig.cache
+D:\jeongseop\InitializingArray\InitializingArray\obj\Debug\net8.0\ref\InitializingArray.dll

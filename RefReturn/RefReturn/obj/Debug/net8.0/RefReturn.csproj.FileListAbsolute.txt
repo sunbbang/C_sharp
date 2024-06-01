@@ -1,0 +1,14 @@
+D:\jeongseop\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.exe
+D:\jeongseop\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.deps.json
+D:\jeongseop\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.runtimeconfig.json
+D:\jeongseop\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.dll
+D:\jeongseop\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.pdb
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfoInputs.cache
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfo.cs
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.csproj.CoreCompileInputs.cache
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.dll
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\refint\RefReturn.dll
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.pdb
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.genruntimeconfig.cache
+D:\jeongseop\RefReturn\RefReturn\obj\Debug\net8.0\ref\RefReturn.dll

@@ -1,0 +1,14 @@
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\bin\Debug\net8.0\Swapbyvalueref.exe
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\bin\Debug\net8.0\Swapbyvalueref.deps.json
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\bin\Debug\net8.0\Swapbyvalueref.runtimeconfig.json
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\bin\Debug\net8.0\Swapbyvalueref.dll
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\bin\Debug\net8.0\Swapbyvalueref.pdb
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.AssemblyInfoInputs.cache
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.AssemblyInfo.cs
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.csproj.CoreCompileInputs.cache
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.dll
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\refint\Swapbyvalueref.dll
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.pdb
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\Swapbyvalueref.genruntimeconfig.cache
+D:\jeongseop\Swapbyvalueref\Swapbyvalueref\obj\Debug\net8.0\ref\Swapbyvalueref.dll

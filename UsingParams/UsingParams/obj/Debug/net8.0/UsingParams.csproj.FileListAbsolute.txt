@@ -1,0 +1,14 @@
+D:\jeongseop\UsingParams\UsingParams\bin\Debug\net8.0\UsingParams.exe
+D:\jeongseop\UsingParams\UsingParams\bin\Debug\net8.0\UsingParams.deps.json
+D:\jeongseop\UsingParams\UsingParams\bin\Debug\net8.0\UsingParams.runtimeconfig.json
+D:\jeongseop\UsingParams\UsingParams\bin\Debug\net8.0\UsingParams.dll
+D:\jeongseop\UsingParams\UsingParams\bin\Debug\net8.0\UsingParams.pdb
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.AssemblyInfoInputs.cache
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.AssemblyInfo.cs
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.csproj.CoreCompileInputs.cache
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.dll
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\refint\UsingParams.dll
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.pdb
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\UsingParams.genruntimeconfig.cache
+D:\jeongseop\UsingParams\UsingParams\obj\Debug\net8.0\ref\UsingParams.dll

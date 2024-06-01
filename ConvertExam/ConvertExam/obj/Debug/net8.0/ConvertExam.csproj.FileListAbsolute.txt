@@ -1,0 +1,14 @@
+D:\jeongseop\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.exe
+D:\jeongseop\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.deps.json
+D:\jeongseop\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.runtimeconfig.json
+D:\jeongseop\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.dll
+D:\jeongseop\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.pdb
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.AssemblyInfoInputs.cache
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.AssemblyInfo.cs
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.csproj.CoreCompileInputs.cache
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.dll
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\refint\ConvertExam.dll
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.pdb
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.genruntimeconfig.cache
+D:\jeongseop\ConvertExam\ConvertExam\obj\Debug\net8.0\ref\ConvertExam.dll

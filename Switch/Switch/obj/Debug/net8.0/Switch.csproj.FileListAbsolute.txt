@@ -1,0 +1,14 @@
+D:\jeongseop\Switch\Switch\bin\Debug\net8.0\Switch.exe
+D:\jeongseop\Switch\Switch\bin\Debug\net8.0\Switch.deps.json
+D:\jeongseop\Switch\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+D:\jeongseop\Switch\Switch\bin\Debug\net8.0\Switch.dll
+D:\jeongseop\Switch\Switch\bin\Debug\net8.0\Switch.pdb
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.dll
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\refint\Switch.dll
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.pdb
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+D:\jeongseop\Switch\Switch\obj\Debug\net8.0\ref\Switch.dll

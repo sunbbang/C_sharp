@@ -1,0 +1,14 @@
+D:\jeongseop\ArraySample2\ArraySample2\bin\Debug\net8.0\ArraySample2.exe
+D:\jeongseop\ArraySample2\ArraySample2\bin\Debug\net8.0\ArraySample2.deps.json
+D:\jeongseop\ArraySample2\ArraySample2\bin\Debug\net8.0\ArraySample2.runtimeconfig.json
+D:\jeongseop\ArraySample2\ArraySample2\bin\Debug\net8.0\ArraySample2.dll
+D:\jeongseop\ArraySample2\ArraySample2\bin\Debug\net8.0\ArraySample2.pdb
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.AssemblyInfoInputs.cache
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.AssemblyInfo.cs
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.csproj.CoreCompileInputs.cache
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.dll
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\refint\ArraySample2.dll
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.pdb
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ArraySample2.genruntimeconfig.cache
+D:\jeongseop\ArraySample2\ArraySample2\obj\Debug\net8.0\ref\ArraySample2.dll

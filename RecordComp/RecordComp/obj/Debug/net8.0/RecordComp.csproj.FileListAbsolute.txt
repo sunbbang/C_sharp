@@ -1,0 +1,14 @@
+D:\jeongseop\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.exe
+D:\jeongseop\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.deps.json
+D:\jeongseop\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.runtimeconfig.json
+D:\jeongseop\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.dll
+D:\jeongseop\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.pdb
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.AssemblyInfoInputs.cache
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.AssemblyInfo.cs
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.csproj.CoreCompileInputs.cache
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.dll
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\refint\RecordComp.dll
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.pdb
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.genruntimeconfig.cache
+D:\jeongseop\RecordComp\RecordComp\obj\Debug\net8.0\ref\RecordComp.dll

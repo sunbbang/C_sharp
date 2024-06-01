@@ -1,0 +1,14 @@
+D:\jeongseop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\jeongseop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\jeongseop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\jeongseop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\jeongseop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\jeongseop\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

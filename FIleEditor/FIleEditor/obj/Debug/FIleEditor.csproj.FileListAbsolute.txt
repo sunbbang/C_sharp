@@ -1,0 +1,10 @@
+D:\jeongseop\FIleEditor\FIleEditor\bin\Debug\FIleEditor.exe.config
+D:\jeongseop\FIleEditor\FIleEditor\bin\Debug\FIleEditor.exe
+D:\jeongseop\FIleEditor\FIleEditor\bin\Debug\FIleEditor.pdb
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.csproj.AssemblyReference.cache
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.Form1.resources
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.Properties.Resources.resources
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.csproj.GenerateResource.cache
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.csproj.CoreCompileInputs.cache
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.exe
+D:\jeongseop\FIleEditor\FIleEditor\obj\Debug\FIleEditor.pdb

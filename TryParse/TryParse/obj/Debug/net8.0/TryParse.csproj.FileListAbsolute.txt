@@ -1,0 +1,14 @@
+D:\jeongseop\TryParse\TryParse\bin\Debug\net8.0\TryParse.exe
+D:\jeongseop\TryParse\TryParse\bin\Debug\net8.0\TryParse.deps.json
+D:\jeongseop\TryParse\TryParse\bin\Debug\net8.0\TryParse.runtimeconfig.json
+D:\jeongseop\TryParse\TryParse\bin\Debug\net8.0\TryParse.dll
+D:\jeongseop\TryParse\TryParse\bin\Debug\net8.0\TryParse.pdb
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfoInputs.cache
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfo.cs
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.csproj.CoreCompileInputs.cache
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.dll
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\refint\TryParse.dll
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.pdb
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\TryParse.genruntimeconfig.cache
+D:\jeongseop\TryParse\TryParse\obj\Debug\net8.0\ref\TryParse.dll

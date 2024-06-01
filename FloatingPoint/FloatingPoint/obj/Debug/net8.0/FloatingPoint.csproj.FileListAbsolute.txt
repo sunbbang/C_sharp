@@ -1,0 +1,14 @@
+D:\jeongseop\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+D:\jeongseop\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+D:\jeongseop\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+D:\jeongseop\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+D:\jeongseop\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+D:\jeongseop\FloatingPoint\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

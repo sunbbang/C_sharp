@@ -1,0 +1,10 @@
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\bin\Debug\정빈이가 여친 생길 확률 계산기.exe.config
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\bin\Debug\정빈이가 여친 생길 확률 계산기.exe
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\bin\Debug\정빈이가 여친 생길 확률 계산기.pdb
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가 여친 생길 확률 계산기.csproj.AssemblyReference.cache
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가_여친_생길_확률_계산기.Form1.resources
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가_여친_생길_확률_계산기.Properties.Resources.resources
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가 여친 생길 확률 계산기.csproj.GenerateResource.cache
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가 여친 생길 확률 계산기.csproj.CoreCompileInputs.cache
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가 여친 생길 확률 계산기.exe
+D:\jeongseop\정빈이가 여친 생길 확률 계산기\정빈이가 여친 생길 확률 계산기\obj\Debug\정빈이가 여친 생길 확률 계산기.pdb

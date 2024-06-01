@@ -1,0 +1,14 @@
+D:\jeongseop\InDecOperator\InDecOperator\bin\Debug\net8.0\InDecOperator.exe
+D:\jeongseop\InDecOperator\InDecOperator\bin\Debug\net8.0\InDecOperator.deps.json
+D:\jeongseop\InDecOperator\InDecOperator\bin\Debug\net8.0\InDecOperator.runtimeconfig.json
+D:\jeongseop\InDecOperator\InDecOperator\bin\Debug\net8.0\InDecOperator.dll
+D:\jeongseop\InDecOperator\InDecOperator\bin\Debug\net8.0\InDecOperator.pdb
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.AssemblyInfoInputs.cache
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.AssemblyInfo.cs
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.csproj.CoreCompileInputs.cache
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.dll
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\refint\InDecOperator.dll
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.pdb
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\InDecOperator.genruntimeconfig.cache
+D:\jeongseop\InDecOperator\InDecOperator\obj\Debug\net8.0\ref\InDecOperator.dll

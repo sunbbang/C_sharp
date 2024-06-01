@@ -1,0 +1,14 @@
+D:\jeongseop\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.exe
+D:\jeongseop\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.deps.json
+D:\jeongseop\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.runtimeconfig.json
+D:\jeongseop\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.dll
+D:\jeongseop\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.pdb
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.AssemblyInfoInputs.cache
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.AssemblyInfo.cs
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.csproj.CoreCompileInputs.cache
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.dll
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\refint\RequiredProperty.dll
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.pdb
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.genruntimeconfig.cache
+D:\jeongseop\RequiredProperty\RequiredProperty\obj\Debug\net8.0\ref\RequiredProperty.dll

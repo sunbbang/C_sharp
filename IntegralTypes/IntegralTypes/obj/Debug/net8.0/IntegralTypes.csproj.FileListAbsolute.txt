@@ -1,0 +1,14 @@
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\jeongseop\IntegralTypes\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+D:\jeongseop\IntegralTypes\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+D:\jeongseop\IntegralTypes\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+D:\jeongseop\IntegralTypes\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+D:\jeongseop\IntegralTypes\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+D:\jeongseop\IntegralTypes\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll

@@ -1,0 +1,10 @@
+D:\jeongseop\pandwijipgi\pandwijipgi\bin\Debug\pandwijipgi.exe.config
+D:\jeongseop\pandwijipgi\pandwijipgi\bin\Debug\pandwijipgi.exe
+D:\jeongseop\pandwijipgi\pandwijipgi\bin\Debug\pandwijipgi.pdb
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.csproj.AssemblyReference.cache
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.Form1.resources
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.Properties.Resources.resources
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.csproj.GenerateResource.cache
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.csproj.CoreCompileInputs.cache
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.exe
+D:\jeongseop\pandwijipgi\pandwijipgi\obj\Debug\pandwijipgi.pdb

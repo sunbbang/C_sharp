@@ -1,0 +1,14 @@
+D:\jeongseop\This\This\bin\Debug\net8.0\This.exe
+D:\jeongseop\This\This\bin\Debug\net8.0\This.deps.json
+D:\jeongseop\This\This\bin\Debug\net8.0\This.runtimeconfig.json
+D:\jeongseop\This\This\bin\Debug\net8.0\This.dll
+D:\jeongseop\This\This\bin\Debug\net8.0\This.pdb
+D:\jeongseop\This\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\This\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+D:\jeongseop\This\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+D:\jeongseop\This\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+D:\jeongseop\This\This\obj\Debug\net8.0\This.dll
+D:\jeongseop\This\This\obj\Debug\net8.0\refint\This.dll
+D:\jeongseop\This\This\obj\Debug\net8.0\This.pdb
+D:\jeongseop\This\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+D:\jeongseop\This\This\obj\Debug\net8.0\ref\This.dll

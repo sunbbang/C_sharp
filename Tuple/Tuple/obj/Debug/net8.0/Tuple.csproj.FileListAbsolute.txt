@@ -1,0 +1,14 @@
+D:\jeongseop\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+D:\jeongseop\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+D:\jeongseop\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+D:\jeongseop\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+D:\jeongseop\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+D:\jeongseop\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll

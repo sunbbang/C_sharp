@@ -1,0 +1,14 @@
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\jeongseop\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+D:\jeongseop\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+D:\jeongseop\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+D:\jeongseop\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+D:\jeongseop\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+D:\jeongseop\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

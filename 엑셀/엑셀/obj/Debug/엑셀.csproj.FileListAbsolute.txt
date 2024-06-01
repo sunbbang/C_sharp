@@ -1,0 +1,10 @@
+D:\jeongseop\엑셀\엑셀\bin\Debug\엑셀.exe.config
+D:\jeongseop\엑셀\엑셀\bin\Debug\엑셀.exe
+D:\jeongseop\엑셀\엑셀\bin\Debug\엑셀.pdb
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.csproj.AssemblyReference.cache
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.Form1.resources
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.Properties.Resources.resources
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.csproj.GenerateResource.cache
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.csproj.CoreCompileInputs.cache
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.exe
+D:\jeongseop\엑셀\엑셀\obj\Debug\엑셀.pdb
