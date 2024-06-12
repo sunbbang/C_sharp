@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hottable", "Hottable\Hottable.csproj", "{5D47D1FB-0482-45FC-8B6D-0907FF4F3E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D47D1FB-0482-45FC-8B6D-0907FF4F3E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47D1FB-0482-45FC-8B6D-0907FF4F3E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D47D1FB-0482-45FC-8B6D-0907FF4F3E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47D1FB-0482-45FC-8B6D-0907FF4F3E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D6884E-2D2C-4856-B749-A2EA4F1FF2A2}
+	EndGlobalSection
+EndGlobal

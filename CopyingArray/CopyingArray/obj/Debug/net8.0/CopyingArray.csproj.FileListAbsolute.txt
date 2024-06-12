@@ -1,0 +1,15 @@
+D:\jeongseop\CopyingArray\CopyingArray\bin\Debug\net8.0\CopyingArray.exe
+D:\jeongseop\CopyingArray\CopyingArray\bin\Debug\net8.0\CopyingArray.deps.json
+D:\jeongseop\CopyingArray\CopyingArray\bin\Debug\net8.0\CopyingArray.runtimeconfig.json
+D:\jeongseop\CopyingArray\CopyingArray\bin\Debug\net8.0\CopyingArray.dll
+D:\jeongseop\CopyingArray\CopyingArray\bin\Debug\net8.0\CopyingArray.pdb
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.AssemblyInfoInputs.cache
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.AssemblyInfo.cs
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.csproj.CoreCompileInputs.cache
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.sourcelink.json
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.dll
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\refint\CopyingArray.dll
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.pdb
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\CopyingArray.genruntimeconfig.cache
+D:\jeongseop\CopyingArray\CopyingArray\obj\Debug\net8.0\ref\CopyingArray.dll
