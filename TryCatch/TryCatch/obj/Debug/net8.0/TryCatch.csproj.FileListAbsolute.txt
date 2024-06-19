@@ -1,0 +1,15 @@
+D:\jeongseop\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.exe
+D:\jeongseop\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+D:\jeongseop\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+D:\jeongseop\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.dll
+D:\jeongseop\TryCatch\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.sourcelink.json
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.dll
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+D:\jeongseop\TryCatch\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll

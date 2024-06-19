@@ -1,0 +1,15 @@
+D:\jeongseop\Throw\Throw\bin\Debug\net8.0\Throw.exe
+D:\jeongseop\Throw\Throw\bin\Debug\net8.0\Throw.deps.json
+D:\jeongseop\Throw\Throw\bin\Debug\net8.0\Throw.runtimeconfig.json
+D:\jeongseop\Throw\Throw\bin\Debug\net8.0\Throw.dll
+D:\jeongseop\Throw\Throw\bin\Debug\net8.0\Throw.pdb
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.AssemblyInfoInputs.cache
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.AssemblyInfo.cs
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.csproj.CoreCompileInputs.cache
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.sourcelink.json
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.dll
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\refint\Throw.dll
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.pdb
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\Throw.genruntimeconfig.cache
+D:\jeongseop\Throw\Throw\obj\Debug\net8.0\ref\Throw.dll

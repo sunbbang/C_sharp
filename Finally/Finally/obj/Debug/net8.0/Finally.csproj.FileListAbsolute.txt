@@ -1,0 +1,15 @@
+D:\jeongseop\Finally\Finally\bin\Debug\net8.0\Finally.exe
+D:\jeongseop\Finally\Finally\bin\Debug\net8.0\Finally.deps.json
+D:\jeongseop\Finally\Finally\bin\Debug\net8.0\Finally.runtimeconfig.json
+D:\jeongseop\Finally\Finally\bin\Debug\net8.0\Finally.dll
+D:\jeongseop\Finally\Finally\bin\Debug\net8.0\Finally.pdb
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfoInputs.cache
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfo.cs
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.csproj.CoreCompileInputs.cache
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.sourcelink.json
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.dll
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\refint\Finally.dll
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.pdb
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\Finally.genruntimeconfig.cache
+D:\jeongseop\Finally\Finally\obj\Debug\net8.0\ref\Finally.dll

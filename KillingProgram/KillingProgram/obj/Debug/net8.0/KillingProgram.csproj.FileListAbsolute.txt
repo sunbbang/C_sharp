@@ -1,0 +1,15 @@
+D:\jeongseop\KillingProgram\KillingProgram\bin\Debug\net8.0\KillingProgram.exe
+D:\jeongseop\KillingProgram\KillingProgram\bin\Debug\net8.0\KillingProgram.deps.json
+D:\jeongseop\KillingProgram\KillingProgram\bin\Debug\net8.0\KillingProgram.runtimeconfig.json
+D:\jeongseop\KillingProgram\KillingProgram\bin\Debug\net8.0\KillingProgram.dll
+D:\jeongseop\KillingProgram\KillingProgram\bin\Debug\net8.0\KillingProgram.pdb
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.AssemblyInfoInputs.cache
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.AssemblyInfo.cs
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.csproj.CoreCompileInputs.cache
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.sourcelink.json
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.dll
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\refint\KillingProgram.dll
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.pdb
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\KillingProgram.genruntimeconfig.cache
+D:\jeongseop\KillingProgram\KillingProgram\obj\Debug\net8.0\ref\KillingProgram.dll
