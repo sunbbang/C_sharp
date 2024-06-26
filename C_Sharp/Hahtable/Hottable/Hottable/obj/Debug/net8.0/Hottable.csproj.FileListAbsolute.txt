@@ -1,0 +1,15 @@
+D:\jeongseop\Hottable\Hottable\bin\Debug\net8.0\Hottable.exe
+D:\jeongseop\Hottable\Hottable\bin\Debug\net8.0\Hottable.deps.json
+D:\jeongseop\Hottable\Hottable\bin\Debug\net8.0\Hottable.runtimeconfig.json
+D:\jeongseop\Hottable\Hottable\bin\Debug\net8.0\Hottable.dll
+D:\jeongseop\Hottable\Hottable\bin\Debug\net8.0\Hottable.pdb
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.AssemblyInfoInputs.cache
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.AssemblyInfo.cs
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.csproj.CoreCompileInputs.cache
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.sourcelink.json
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.dll
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\refint\Hottable.dll
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.pdb
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\Hottable.genruntimeconfig.cache
+D:\jeongseop\Hottable\Hottable\obj\Debug\net8.0\ref\Hottable.dll

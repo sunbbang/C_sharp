@@ -1,0 +1,14 @@
+D:\jeongseop\StringCompare\StringCompare\bin\Debug\net8.0\StringCompare.exe
+D:\jeongseop\StringCompare\StringCompare\bin\Debug\net8.0\StringCompare.deps.json
+D:\jeongseop\StringCompare\StringCompare\bin\Debug\net8.0\StringCompare.runtimeconfig.json
+D:\jeongseop\StringCompare\StringCompare\bin\Debug\net8.0\StringCompare.dll
+D:\jeongseop\StringCompare\StringCompare\bin\Debug\net8.0\StringCompare.pdb
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.AssemblyInfoInputs.cache
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.AssemblyInfo.cs
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.csproj.CoreCompileInputs.cache
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.dll
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\refint\StringCompare.dll
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.pdb
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\StringCompare.genruntimeconfig.cache
+D:\jeongseop\StringCompare\StringCompare\obj\Debug\net8.0\ref\StringCompare.dll

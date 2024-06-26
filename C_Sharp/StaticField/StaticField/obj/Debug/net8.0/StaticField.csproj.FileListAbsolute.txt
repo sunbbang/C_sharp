@@ -1,0 +1,14 @@
+D:\jeongseop\StaticField\StaticField\bin\Debug\net8.0\StaticField.exe
+D:\jeongseop\StaticField\StaticField\bin\Debug\net8.0\StaticField.deps.json
+D:\jeongseop\StaticField\StaticField\bin\Debug\net8.0\StaticField.runtimeconfig.json
+D:\jeongseop\StaticField\StaticField\bin\Debug\net8.0\StaticField.dll
+D:\jeongseop\StaticField\StaticField\bin\Debug\net8.0\StaticField.pdb
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfoInputs.cache
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfo.cs
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.csproj.CoreCompileInputs.cache
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.dll
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\refint\StaticField.dll
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.pdb
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\StaticField.genruntimeconfig.cache
+D:\jeongseop\StaticField\StaticField\obj\Debug\net8.0\ref\StaticField.dll

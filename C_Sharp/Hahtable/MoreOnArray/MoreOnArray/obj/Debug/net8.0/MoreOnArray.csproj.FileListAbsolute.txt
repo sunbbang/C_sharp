@@ -1,0 +1,14 @@
+D:\jeongseop\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.exe
+D:\jeongseop\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.deps.json
+D:\jeongseop\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.runtimeconfig.json
+D:\jeongseop\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.dll
+D:\jeongseop\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.pdb
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.AssemblyInfoInputs.cache
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.AssemblyInfo.cs
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.csproj.CoreCompileInputs.cache
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.dll
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\refint\MoreOnArray.dll
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.pdb
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.genruntimeconfig.cache
+D:\jeongseop\MoreOnArray\MoreOnArray\obj\Debug\net8.0\ref\MoreOnArray.dll

@@ -1,0 +1,14 @@
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.AssemblyInfoInputs.cache
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.AssemblyInfo.cs
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.csproj.CoreCompileInputs.cache
+D:\jeongseop\OverridingEx2\OverridingEx2\bin\Debug\net8.0\OverridingEx2.exe
+D:\jeongseop\OverridingEx2\OverridingEx2\bin\Debug\net8.0\OverridingEx2.deps.json
+D:\jeongseop\OverridingEx2\OverridingEx2\bin\Debug\net8.0\OverridingEx2.runtimeconfig.json
+D:\jeongseop\OverridingEx2\OverridingEx2\bin\Debug\net8.0\OverridingEx2.dll
+D:\jeongseop\OverridingEx2\OverridingEx2\bin\Debug\net8.0\OverridingEx2.pdb
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.dll
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\refint\OverridingEx2.dll
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.pdb
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\OverridingEx2.genruntimeconfig.cache
+D:\jeongseop\OverridingEx2\OverridingEx2\obj\Debug\net8.0\ref\OverridingEx2.dll

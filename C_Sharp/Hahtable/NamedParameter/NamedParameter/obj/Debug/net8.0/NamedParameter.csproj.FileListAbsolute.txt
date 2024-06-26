@@ -1,0 +1,14 @@
+D:\jeongseop\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.exe
+D:\jeongseop\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.deps.json
+D:\jeongseop\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.runtimeconfig.json
+D:\jeongseop\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.dll
+D:\jeongseop\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.pdb
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfoInputs.cache
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfo.cs
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.csproj.CoreCompileInputs.cache
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.dll
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\refint\NamedParameter.dll
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.pdb
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.genruntimeconfig.cache
+D:\jeongseop\NamedParameter\NamedParameter\obj\Debug\net8.0\ref\NamedParameter.dll

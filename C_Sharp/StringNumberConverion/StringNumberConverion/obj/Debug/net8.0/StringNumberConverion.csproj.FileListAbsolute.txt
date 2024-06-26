@@ -1,0 +1,14 @@
+D:\jeongseop\StringNumberConverion\StringNumberConverion\bin\Debug\net8.0\StringNumberConverion.exe
+D:\jeongseop\StringNumberConverion\StringNumberConverion\bin\Debug\net8.0\StringNumberConverion.deps.json
+D:\jeongseop\StringNumberConverion\StringNumberConverion\bin\Debug\net8.0\StringNumberConverion.runtimeconfig.json
+D:\jeongseop\StringNumberConverion\StringNumberConverion\bin\Debug\net8.0\StringNumberConverion.dll
+D:\jeongseop\StringNumberConverion\StringNumberConverion\bin\Debug\net8.0\StringNumberConverion.pdb
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.AssemblyInfoInputs.cache
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.AssemblyInfo.cs
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.csproj.CoreCompileInputs.cache
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.dll
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\refint\StringNumberConverion.dll
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.pdb
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\StringNumberConverion.genruntimeconfig.cache
+D:\jeongseop\StringNumberConverion\StringNumberConverion\obj\Debug\net8.0\ref\StringNumberConverion.dll

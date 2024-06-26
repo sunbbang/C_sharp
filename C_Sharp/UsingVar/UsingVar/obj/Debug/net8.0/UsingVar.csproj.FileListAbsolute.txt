@@ -1,0 +1,14 @@
+D:\jeongseop\UsingVar\UsingVar\bin\Debug\net8.0\UsingVar.exe
+D:\jeongseop\UsingVar\UsingVar\bin\Debug\net8.0\UsingVar.deps.json
+D:\jeongseop\UsingVar\UsingVar\bin\Debug\net8.0\UsingVar.runtimeconfig.json
+D:\jeongseop\UsingVar\UsingVar\bin\Debug\net8.0\UsingVar.dll
+D:\jeongseop\UsingVar\UsingVar\bin\Debug\net8.0\UsingVar.pdb
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfoInputs.cache
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfo.cs
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.csproj.CoreCompileInputs.cache
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.dll
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\refint\UsingVar.dll
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.pdb
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\UsingVar.genruntimeconfig.cache
+D:\jeongseop\UsingVar\UsingVar\obj\Debug\net8.0\ref\UsingVar.dll

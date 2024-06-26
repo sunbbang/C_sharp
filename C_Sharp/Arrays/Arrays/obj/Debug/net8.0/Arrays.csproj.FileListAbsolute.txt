@@ -1,0 +1,14 @@
+D:\jeongseop\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\jeongseop\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\jeongseop\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\jeongseop\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\jeongseop\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\jeongseop\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll

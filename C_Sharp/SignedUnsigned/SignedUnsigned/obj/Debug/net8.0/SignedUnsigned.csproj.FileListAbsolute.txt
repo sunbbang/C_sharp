@@ -1,0 +1,14 @@
+D:\jeongseop\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.exe
+D:\jeongseop\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.deps.json
+D:\jeongseop\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.runtimeconfig.json
+D:\jeongseop\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.dll
+D:\jeongseop\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.pdb
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfoInputs.cache
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfo.cs
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.dll
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\refint\SignedUnsigned.dll
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.pdb
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.genruntimeconfig.cache
+D:\jeongseop\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\ref\SignedUnsigned.dll

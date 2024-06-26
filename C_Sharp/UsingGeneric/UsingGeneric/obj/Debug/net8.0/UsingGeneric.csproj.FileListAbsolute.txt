@@ -1,0 +1,15 @@
+D:\jeongseop\UsingGeneric\UsingGeneric\bin\Debug\net8.0\UsingGeneric.exe
+D:\jeongseop\UsingGeneric\UsingGeneric\bin\Debug\net8.0\UsingGeneric.deps.json
+D:\jeongseop\UsingGeneric\UsingGeneric\bin\Debug\net8.0\UsingGeneric.runtimeconfig.json
+D:\jeongseop\UsingGeneric\UsingGeneric\bin\Debug\net8.0\UsingGeneric.dll
+D:\jeongseop\UsingGeneric\UsingGeneric\bin\Debug\net8.0\UsingGeneric.pdb
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.AssemblyInfoInputs.cache
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.AssemblyInfo.cs
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.csproj.CoreCompileInputs.cache
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.sourcelink.json
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.dll
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\refint\UsingGeneric.dll
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.pdb
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\UsingGeneric.genruntimeconfig.cache
+D:\jeongseop\UsingGeneric\UsingGeneric\obj\Debug\net8.0\ref\UsingGeneric.dll

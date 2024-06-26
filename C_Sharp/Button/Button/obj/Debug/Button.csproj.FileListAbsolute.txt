@@ -1,0 +1,10 @@
+D:\jeongseop\Button\Button\bin\Debug\Button.exe.config
+D:\jeongseop\Button\Button\bin\Debug\Button.exe
+D:\jeongseop\Button\Button\bin\Debug\Button.pdb
+D:\jeongseop\Button\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+D:\jeongseop\Button\Button\obj\Debug\Button.Form1.resources
+D:\jeongseop\Button\Button\obj\Debug\Button.Properties.Resources.resources
+D:\jeongseop\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+D:\jeongseop\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\jeongseop\Button\Button\obj\Debug\Button.exe
+D:\jeongseop\Button\Button\obj\Debug\Button.pdb

@@ -1,0 +1,14 @@
+D:\jeongseop\Record\Record\bin\Debug\net8.0\Record.exe
+D:\jeongseop\Record\Record\bin\Debug\net8.0\Record.deps.json
+D:\jeongseop\Record\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+D:\jeongseop\Record\Record\bin\Debug\net8.0\Record.dll
+D:\jeongseop\Record\Record\bin\Debug\net8.0\Record.pdb
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.dll
+D:\jeongseop\Record\Record\obj\Debug\net8.0\refint\Record.dll
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.pdb
+D:\jeongseop\Record\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+D:\jeongseop\Record\Record\obj\Debug\net8.0\ref\Record.dll

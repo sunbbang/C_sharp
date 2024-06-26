@@ -1,0 +1,14 @@
+D:\jeongseop\IfElse\IfElse\bin\Debug\net8.0\IfElse.exe
+D:\jeongseop\IfElse\IfElse\bin\Debug\net8.0\IfElse.deps.json
+D:\jeongseop\IfElse\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+D:\jeongseop\IfElse\IfElse\bin\Debug\net8.0\IfElse.dll
+D:\jeongseop\IfElse\IfElse\bin\Debug\net8.0\IfElse.pdb
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.dll
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.pdb
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+D:\jeongseop\IfElse\IfElse\obj\Debug\net8.0\ref\IfElse.dll

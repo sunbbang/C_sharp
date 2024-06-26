@@ -1,0 +1,14 @@
+D:\jeongseop\valueType\valueType\bin\Debug\net8.0\valueType.exe
+D:\jeongseop\valueType\valueType\bin\Debug\net8.0\valueType.deps.json
+D:\jeongseop\valueType\valueType\bin\Debug\net8.0\valueType.runtimeconfig.json
+D:\jeongseop\valueType\valueType\bin\Debug\net8.0\valueType.dll
+D:\jeongseop\valueType\valueType\bin\Debug\net8.0\valueType.pdb
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.AssemblyInfoInputs.cache
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.AssemblyInfo.cs
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.csproj.CoreCompileInputs.cache
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.dll
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\refint\valueType.dll
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.pdb
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\valueType.genruntimeconfig.cache
+D:\jeongseop\valueType\valueType\obj\Debug\net8.0\ref\valueType.dll

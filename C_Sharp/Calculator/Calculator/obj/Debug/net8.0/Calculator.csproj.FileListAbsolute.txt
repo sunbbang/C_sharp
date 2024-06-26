@@ -1,0 +1,14 @@
+D:\jeongseop\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\jeongseop\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\jeongseop\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\jeongseop\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\jeongseop\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\jeongseop\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

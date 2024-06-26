@@ -1,0 +1,14 @@
+D:\jeongseop\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.exe
+D:\jeongseop\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.deps.json
+D:\jeongseop\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.runtimeconfig.json
+D:\jeongseop\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.dll
+D:\jeongseop\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.pdb
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfoInputs.cache
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfo.cs
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.csproj.CoreCompileInputs.cache
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.dll
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\refint\NestedClass.dll
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.pdb
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.genruntimeconfig.cache
+D:\jeongseop\NestedClass\NestedClass\obj\Debug\net8.0\ref\NestedClass.dll

@@ -1,0 +1,14 @@
+D:\jeongseop\240110\240110\bin\Debug\net8.0\240110.exe
+D:\jeongseop\240110\240110\bin\Debug\net8.0\240110.deps.json
+D:\jeongseop\240110\240110\bin\Debug\net8.0\240110.runtimeconfig.json
+D:\jeongseop\240110\240110\bin\Debug\net8.0\240110.dll
+D:\jeongseop\240110\240110\bin\Debug\net8.0\240110.pdb
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.AssemblyInfoInputs.cache
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.AssemblyInfo.cs
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.csproj.CoreCompileInputs.cache
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.dll
+D:\jeongseop\240110\240110\obj\Debug\net8.0\refint\240110.dll
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.pdb
+D:\jeongseop\240110\240110\obj\Debug\net8.0\240110.genruntimeconfig.cache
+D:\jeongseop\240110\240110\obj\Debug\net8.0\ref\240110.dll

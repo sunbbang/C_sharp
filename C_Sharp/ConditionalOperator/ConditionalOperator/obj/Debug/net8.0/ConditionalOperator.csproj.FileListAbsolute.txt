@@ -1,0 +1,14 @@
+D:\jeongseop\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.exe
+D:\jeongseop\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.deps.json
+D:\jeongseop\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.runtimeconfig.json
+D:\jeongseop\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.dll
+D:\jeongseop\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.pdb
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfoInputs.cache
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfo.cs
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.dll
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\refint\ConditionalOperator.dll
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.pdb
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.genruntimeconfig.cache
+D:\jeongseop\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ref\ConditionalOperator.dll

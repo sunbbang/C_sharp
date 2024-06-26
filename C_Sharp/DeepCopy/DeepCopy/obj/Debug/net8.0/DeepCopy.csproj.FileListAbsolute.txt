@@ -1,0 +1,14 @@
+D:\jeongseop\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.exe
+D:\jeongseop\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.deps.json
+D:\jeongseop\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.runtimeconfig.json
+D:\jeongseop\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.dll
+D:\jeongseop\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.pdb
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfoInputs.cache
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfo.cs
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.csproj.CoreCompileInputs.cache
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.dll
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\refint\DeepCopy.dll
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.pdb
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.genruntimeconfig.cache
+D:\jeongseop\DeepCopy\DeepCopy\obj\Debug\net8.0\ref\DeepCopy.dll

@@ -1,0 +1,14 @@
+D:\jeongseop\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.exe
+D:\jeongseop\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.deps.json
+D:\jeongseop\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.runtimeconfig.json
+D:\jeongseop\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.dll
+D:\jeongseop\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.pdb
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfoInputs.cache
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfo.cs
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.csproj.CoreCompileInputs.cache
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.dll
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\refint\SwapByRef.dll
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.pdb
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.genruntimeconfig.cache
+D:\jeongseop\SwapByRef\SwapByRef\obj\Debug\net8.0\ref\SwapByRef.dll

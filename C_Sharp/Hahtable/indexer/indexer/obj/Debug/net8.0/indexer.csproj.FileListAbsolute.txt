@@ -1,0 +1,15 @@
+D:\jeongseop\indexer\indexer\bin\Debug\net8.0\indexer.exe
+D:\jeongseop\indexer\indexer\bin\Debug\net8.0\indexer.deps.json
+D:\jeongseop\indexer\indexer\bin\Debug\net8.0\indexer.runtimeconfig.json
+D:\jeongseop\indexer\indexer\bin\Debug\net8.0\indexer.dll
+D:\jeongseop\indexer\indexer\bin\Debug\net8.0\indexer.pdb
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.AssemblyInfoInputs.cache
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.AssemblyInfo.cs
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.csproj.CoreCompileInputs.cache
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.sourcelink.json
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.dll
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\refint\indexer.dll
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.pdb
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\indexer.genruntimeconfig.cache
+D:\jeongseop\indexer\indexer\obj\Debug\net8.0\ref\indexer.dll

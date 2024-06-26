@@ -1,0 +1,14 @@
+D:\jeongseop\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.exe
+D:\jeongseop\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.deps.json
+D:\jeongseop\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.runtimeconfig.json
+D:\jeongseop\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.dll
+D:\jeongseop\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.pdb
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.AssemblyInfoInputs.cache
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.AssemblyInfo.cs
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.csproj.CoreCompileInputs.cache
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.dll
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\refint\DateTimeExam.dll
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.pdb
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.genruntimeconfig.cache
+D:\jeongseop\DateTimeExam\DateTimeExam\obj\Debug\net8.0\ref\DateTimeExam.dll

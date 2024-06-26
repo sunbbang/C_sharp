@@ -1,0 +1,14 @@
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfoInputs.cache
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfo.cs
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+D:\jeongseop\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.exe
+D:\jeongseop\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.deps.json
+D:\jeongseop\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.runtimeconfig.json
+D:\jeongseop\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.dll
+D:\jeongseop\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.pdb
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.dll
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\refint\StringFormatBasic.dll
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.pdb
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.genruntimeconfig.cache
+D:\jeongseop\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\ref\StringFormatBasic.dll

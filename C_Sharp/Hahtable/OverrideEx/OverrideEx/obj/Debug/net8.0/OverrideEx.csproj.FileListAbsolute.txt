@@ -1,0 +1,14 @@
+D:\jeongseop\OverrideEx\OverrideEx\bin\Debug\net8.0\OverrideEx.exe
+D:\jeongseop\OverrideEx\OverrideEx\bin\Debug\net8.0\OverrideEx.deps.json
+D:\jeongseop\OverrideEx\OverrideEx\bin\Debug\net8.0\OverrideEx.runtimeconfig.json
+D:\jeongseop\OverrideEx\OverrideEx\bin\Debug\net8.0\OverrideEx.dll
+D:\jeongseop\OverrideEx\OverrideEx\bin\Debug\net8.0\OverrideEx.pdb
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.AssemblyInfoInputs.cache
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.AssemblyInfo.cs
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.csproj.CoreCompileInputs.cache
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.dll
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\refint\OverrideEx.dll
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.pdb
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\OverrideEx.genruntimeconfig.cache
+D:\jeongseop\OverrideEx\OverrideEx\obj\Debug\net8.0\ref\OverrideEx.dll
